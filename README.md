@@ -5,11 +5,11 @@
 
 ## A CSS Expert and Front End Developer 😄
 
-- 🔭 I’m currently working on @ [YouTube Channel](https://www.youtube.com/channel/UCKwL411VwRehvknpgsk46Wg)
-- 🌱 I’m currently learning **ReactJS**
+- 🔭 Currently working on @ [YouTube Channel](https://www.youtube.com/channel/UCKwL411VwRehvknpgsk46Wg)
+- 🌱 Learning **ES6** & **ReactJS**
 - 💬 Ask me about CSS
 - 📫 How to reach me: email@cssdude.com
-- ⚡ Fun fact: I am a singer and Marvel Fan
+- ⚡ Fun fact: A singer and Marvel Fan
 
 ## Tech Skills
 - HTML5, CSS Grid, Flexbox
