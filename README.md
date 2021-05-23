@@ -20,6 +20,5 @@
 
 ## Get Social
 - [Facebook](https://www.facebook.com/cssdude)
-- [LinkedIn](https://www.linkedin.com/in/cssdude)
 - [Twitter](https://www.twitter.com/css_dude)
 - [Instagram](https://www.instagram.com/cssdude)
