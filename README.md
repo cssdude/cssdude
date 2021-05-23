@@ -5,10 +5,10 @@
 
 ## A CSS Expert and Front End Developer 😄
 
-- 🔭 Currently working on @ [YouTube Channel](https://www.youtube.com/channel/UCKwL411VwRehvknpgsk46Wg)
+- 🔭 Working on @ [YouTube Channel](https://www.youtube.com/channel/UCKwL411VwRehvknpgsk46Wg)
 - 🌱 Learning **ES6** & **ReactJS**
-- 💬 Ask me about CSS
-- 📫 How to reach me: email@cssdude.com
+- 💬 Ask anything about CSS
+- 📫 Say Hello: email@cssdude.com
 - ⚡ Fun fact: A singer and Marvel Fan
 
 ## Tech Skills
