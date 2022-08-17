@@ -9,11 +9,11 @@
 - 🌱 Learning **ES6** & **ReactJS**
 - 💬 Ask anything about CSS
 - 📫 Say Hello: email@cssdude.com
-- ⚡ Fun fact: A singer and Marvel Fan
+- ⚡ A Marvel Fan
 
 ## Tech Skills
-- HTML5, CSS Grid, Flexbox
-- CSS Frameworks
+- HTML5, CSS3, CSS Grid, Flexbox
+- CSS Framework(Tailwind, Twitter Bootstrap)
 - JavaScript/jQuery, ES6
 - Web/UI Development
 - WordPress Themes
