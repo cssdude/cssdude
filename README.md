@@ -5,16 +5,15 @@
 
 ## A CSS Expert and Front End Developer 😄
 
-- 🔭 Working on @ [YouTube Channel](https://www.youtube.com/channel/UCKwL411VwRehvknpgsk46Wg)
-- 🌱 Learning **ES6** & **ReactJS**
-- 💬 Ask anything about CSS
+- 🔭 CSS Dude on [YouTube Channel](https://www.youtube.com/@css_dude)
+- 🌱 Exploring **ES6** & **ReactJS**
+- 💬 Ask anything about #CSS
 - 📫 Say Hello: email@cssdude.com
-- ⚡ A Marvel Fan
 
 ## Tech Skills
 - HTML5, CSS3, CSS Grid, Flexbox
-- CSS Framework(Tailwind, Twitter Bootstrap)
-- JavaScript/jQuery, ES6
+- Tailwind CSS, Twitter Bootstrap
+- ES6, JavaScript/jQuery
 - Web/UI Development
 - WordPress Themes
 
