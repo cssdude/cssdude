@@ -5,7 +5,7 @@
 
 ## A CSS Expert and Front End Developer 😄
 
-- 🔭 CSS Dude on [YouTube Channel](https://www.youtube.com/@css_dude)
+- 🔭 CSS Dude on [YouTube(@css_dude)](https://www.youtube.com/@css_dude)
 - 🌱 Exploring **ES6** & **ReactJS**
 - 💬 Ask anything about #CSS
 - 📫 Say Hello: email@cssdude.com
